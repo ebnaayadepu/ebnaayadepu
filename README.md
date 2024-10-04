@@ -1,6 +1,6 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am ebnaayadepu](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I am Ebna Ayad Epu</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
@@ -8,17 +8,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning Frontend web  development on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 👨‍💻 All of my projects are available at [https://github.com/ebnaayadepu](https://github.com/ebnaayadepu)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
