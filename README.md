@@ -1,7 +1,7 @@
 ![I am ebnaayadepu](https://github.com/ebnaayadepu/ebnaayadepu/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I am Ebna Ayad Epu</h1>
-<h3 align="center">Programmer | Frontend Web Developer |  | Speed Learner</h3>
+<h3 align="center">Programmer      | | Frontend Web Developer |  | Speed Learner</h3>
 
 <div align="center">
 
