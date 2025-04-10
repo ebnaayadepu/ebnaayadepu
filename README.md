@@ -26,8 +26,8 @@ Skills: BOOTSTRAP / REACT / JS / HTML
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="[https://fb.com/epu](https://www.facebook.com/ebna.ayad.epu
-)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="epu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ebna.ayad.epu
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="epu" height="30" width="40" /></a>
 <a href="https://twitter.com/epu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ebnaayadepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebnaayadepu" height="30" width="40" /></a>
 <a href="https://codepen.io/ebnaayadepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ebnaayadepu" height="30" width="40" /></a>
