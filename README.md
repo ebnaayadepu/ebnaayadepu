@@ -1,20 +1,19 @@
 ![I am ebnaayadepu](https://github.com/ebnaayadepu/ebnaayadepu/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I am Ebna Ayad Epu</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Programmer | Frontend Web Developer |  | Speed Learner</h3>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=ebnaayadepu&color=red)
 
-Skills: BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: BOOTSTRAP / REACT / JS / HTML 
 
 </div>
 
-- 🔭 I’m currently learning Frontend web  development on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning Frontend web  development
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning REAct Js
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebnaayadepu](https://github.com/ebnaayadepu)
 
